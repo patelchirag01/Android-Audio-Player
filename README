@@ -1,0 +1,3 @@
+This is a project I've had in my mind for a while now but just coded today, streaming live audio from your computer to your android phone. It works but currently only from the computers microphone and there is a 500-1000ms latency. It streams raw 8bit unsigned pcm data over wifi at 44.1khz.
+
+So far it sounds good, but I'd like to try to decrease the lag and get audio from applications rather than the microphone.
